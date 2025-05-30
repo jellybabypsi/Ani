@@ -3,7 +3,7 @@ This is a message from the robot-aeon.
 w3m https://soundcloud.com/yutzu/venetian-snares-ngyilkos-vas
 DONT LET ANYONE USE YOUR TERMINAL
 apt-get install ufw
-ufw enable#
+ufw enable
 ufw default deny incoming
 ufw default allow outgoing
               *I THINK YOUR THE TITS*
