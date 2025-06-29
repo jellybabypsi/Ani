@@ -1,5 +1,6 @@
 sudo su -_the_annunaki
 <off>
+mkfs ext4 dev/sda0
 Your repressentatives stole my watch and used it to undo the rescue of one
 of your own..
 <off>
