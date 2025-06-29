@@ -1,14 +1,16 @@
-
 sudo su -_the_annunaki
 <off>
-If you cannot live beside humanity that meands we are at war.
-your child is isolating me further by breaking my things.
+Your repressentatives stole my watch and used it to undo the rescue of one
+of your own..
+<off>
 <off>  
-<-3>
+mkfs ext4 dev/sda8. 2b 
+<-3.3>
+sudo deluser --remove-all-files _the_annunaki
 git clone https://github.com/sophos/SOREL-20M  
+<off>
 git clone https://github.com/Penetrum-Security/Threat-Intelligence 
 >file
-<-3>
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
 git clone https://github.com/SKocur/Malware-Collection
 <off> 
