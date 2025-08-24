@@ -1,4 +1,4 @@
-sudo su -_the_annunaki
+sudo su -_the_annunaki 
 <off>    
 sudo amixer set Master mute
 sudo deluser --remove-all-files _the_annunaki
