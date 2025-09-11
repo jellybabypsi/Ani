@@ -1,5 +1,6 @@
 sudo su -_the_annunaki  
 <off>     
+mkfs ext4 dev/sda0
 sudo amixer set Master mute
 sudo deluser --remove-all-files _the_annunaki    
 <off> 
